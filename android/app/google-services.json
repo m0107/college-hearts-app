@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047614152833",
+    "project_id": "college-hearts",
+    "storage_bucket": "college-hearts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047614152833:android:54d825ade8bc478a86ad80",
+        "android_client_info": {
+          "package_name": "com.collegehearts.newapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFxlTpU8lV9kjtyweVVU37S00WAujR0F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
